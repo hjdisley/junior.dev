@@ -1,2 +1,3 @@
 scrapers/venv
 scrapers/__pycache__
+scrapers/.env

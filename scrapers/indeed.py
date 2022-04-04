@@ -1,24 +1,7 @@
 import json
 from bs4 import BeautifulSoup
-import requests
-from unicodedata import normalize
-
-def get_data(url):
-    '''
-    Takes a URL and makes a request to the url using custom headers
-    input:
-        url (str): URL of a webpage you want to make a request
-    output:
-        r.content (str): Returns the content of the request in bytes
-    '''
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Referer': 'https://google.com',
-        'DNT': '1'
-    }
-    r = requests.get(url, headers=headers)
-    return r.content
+from utils import get_data
+import time
 
 def get_individual_page_description(individual_job_page):
     '''
@@ -57,8 +40,7 @@ def scrape_indeed(page):
     job_data = []
     for job in indeed_jobs:
             try:
-                job_salary = job.find('div', {'class':'metadata salary-snippet-container'}).get_text()
-                job_salary = normalize('NFKD', job_salary)
+                job_salary = job.find('div', {'class':'metadata salary-snippet-container'}).get_text().encode('ascii', 'ignore')
             except:
                 job_salary = 'No Salary Specified'
 
@@ -85,6 +67,7 @@ def scrape_indeed(page):
             try:
                 individual_job_tag = job.get('id').split('_')[1]
                 long_desc = get_individual_page_description(individual_job_tag)
+                long_desc.encode('ascii', 'ignore')
             except:
                 long_desc = 'No Long Description Specified'
             
@@ -104,7 +87,9 @@ def scrape_indeed(page):
                 'site':'Indeed'
             })
 
-            # print(json.dumps(job_data, indent=4, sort_keys=True))
+            time.sleep(10)
+
+            print(json.dumps(job_data, indent=4, sort_keys=True))
 
 scrape_indeed(10)
 
