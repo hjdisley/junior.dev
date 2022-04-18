@@ -1,3 +1,4 @@
 scrapers/venv
 scrapers/__pycache__
 scrapers/.env
+scrapers/geckodriver.log
