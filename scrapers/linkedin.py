@@ -1,13 +1,13 @@
-from time import time
-from selenium.webdriver.firefox.options import Options as FirefoxOptions
+import os
+from time import sleep
+from turtle import rt
+from dotenv import load_dotenv
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
-import os
-import time
-from dotenv import load_dotenv
+from selenium.webdriver.firefox.options import Options as FirefoxOptions
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 
 load_dotenv()
 
@@ -20,7 +20,7 @@ EMAIL = os.getenv('LINKEDIN_EMAIL')
 PASSWORD = os.getenv('LINKEDIN_PASSWORD')
 
 # Wait for page to load
-time.sleep(5)
+sleep(3)
 print('Logging in...')
 
 # Find and input email and password
@@ -31,29 +31,21 @@ driver.find_element(By.ID,'password').send_keys(PASSWORD)
 driver.find_element(By.CLASS_NAME, 'btn__primary--large').click()
 
 # Wait for page to load 
-time.sleep(5)
+sleep(3)
 print('Successfully Logged In...')
 
-# Select the job icon
-print('Navigating to job search...')
-driver.find_element(By.ID, "ember20").click() 
+driver.get('https://www.linkedin.com/jobs/search/?f_TPR=r604800&geoId=101165590&keywords=junior%20software%20engineer&location=United%20Kingdom')
 
-# Wait for page to load
-time.sleep(5)
-
-# Scrape Jobs page
-print('Searching for Jobs...')
-
-job_search_box = driver.find_element(By.CLASS_NAME, 'jobs-search-box__text-input')
-
-job_search_box.click()
-job_search_box.send_keys('Junior Engineer')
-
-location_search_box = driver.find_element(By.ID, 'jobs-search-box-location-id-ember272')
-
-location_search_box.send_keys('United Kingdom')
-location_search_box.send_keys(Keys.ENTER)
+jobs_list = driver.find_elements(By.CLASS_NAME, 'occludable-update')
 
 
+for job in jobs_list:
+    driver.execute_script("arguments[0].scrollIntoView();", job)
+    job.click() 
+    sleep(3)
+    
+    [position, company, location] = job.text.split('\n')[:3]
+    details = driver.find_element_by_id("job-details").text
 
-
+    print([position, company, location])
+    print(details)
