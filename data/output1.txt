@@ -1,0 +1,2105 @@
+Logging in...
+Successfully Logged In...
+[<li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3042237153" data-row="1" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="kMMWB9wvKE9CkHadE3mJTw==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/fullstack-engineer-crypto-fully-remote-%C2%A3120k-max-at-remote-worker-3042237153?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=kMMWB9wvKE9CkHadE3mJTw%3D%3D&amp;position=1&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Fullstack Engineer - Crypto - Fully Remote - £120k max
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQH34cPjwfG1vw/company-logo_100_100/0/1603977815935?e=2147483647&amp;v=beta&amp;t=PdtIx3MlxaByLBi6ZrT3LDfF3w2yPhI3djv1euuLFTo" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Fullstack Engineer - Crypto - Fully Remote - £120k max
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/remoteworkeruk?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Remote Worker
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            London, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Actively Hiring
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    15 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3042237300" data-row="2" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="pj+sJYMHchWMs+ZUIuxuXw==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/net-developer-software-engineer-6-0-aws-finance-london-at-remote-worker-3042237300?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=pj%2BsJYMHchWMs%2BZUIuxuXw%3D%3D&amp;position=2&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        .NET Developer Software Engineer 6.0 AWS Finance London
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQH34cPjwfG1vw/company-logo_100_100/0/1603977815935?e=2147483647&amp;v=beta&amp;t=PdtIx3MlxaByLBi6ZrT3LDfF3w2yPhI3djv1euuLFTo" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        .NET Developer Software Engineer 6.0 AWS Finance London
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/remoteworkeruk?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Remote Worker
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            London, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    15 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:2891780891" data-row="3" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="H8F0Ep6ITK8DFr0CJFJ50g==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/net-c%23-software-developer-all-levels-at-rockstar-games-2891780891?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=H8F0Ep6ITK8DFr0CJFJ50g%3D%3D&amp;position=3&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        .NET/C# Software Developer (All Levels)
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4D0BAQGBAhxCc6Og5Q/company-logo_100_100/0/1549643523336?e=2147483647&amp;v=beta&amp;t=mZYAp1Ypit22VV52990fx4ajeIhrw-qab-p5vdUmEUQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        .NET/C# Software Developer (All Levels)
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/rockstar-games?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Rockstar Games
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Lincoln, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Actively Hiring
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    11 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3042237521" data-row="4" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="FQs+JP8enf6Fo8KNyEbDQg==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/full-stack-developer-at-remote-worker-3042237521?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=FQs%2BJP8enf6Fo8KNyEbDQg%3D%3D&amp;position=4&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Full Stack Developer
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQH34cPjwfG1vw/company-logo_100_100/0/1603977815935?e=2147483647&amp;v=beta&amp;t=PdtIx3MlxaByLBi6ZrT3LDfF3w2yPhI3djv1euuLFTo" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Full Stack Developer
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/remoteworkeruk?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Remote Worker
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Westminster, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    14 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:2837645401" data-row="5" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="XoFmoB9BaESJFa5VKjC/8g==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/software-engineer-m-f-d-java-at-qurate-retail-group-2837645401?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=XoFmoB9BaESJFa5VKjC%2F8g%3D%3D&amp;position=5&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Software Engineer (m/f/d) Java
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQFB4h7etq9E9g/company-logo_100_100/0/1521040490844?e=2147483647&amp;v=beta&amp;t=0gwjvzlUXwB1DE11wDJV0XzC6_V0eINDvc0EWgi6hqs" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Software Engineer (m/f/d) Java
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/qurateretailgroup?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Qurate Retail Group
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Knowsley, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    10 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3042241003" data-row="6" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="x8DAGTB5if9ag5R44+VaKA==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/full-stack-engineer-virtasant-remote-%2480-000-year-usd-at-remote-worker-3042241003?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=x8DAGTB5if9ag5R44%2BVaKA%3D%3D&amp;position=6&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Full Stack Engineer, Virtasant (Remote) - $80,000/year USD
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQH34cPjwfG1vw/company-logo_100_100/0/1603977815935?e=2147483647&amp;v=beta&amp;t=PdtIx3MlxaByLBi6ZrT3LDfF3w2yPhI3djv1euuLFTo" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Full Stack Engineer, Virtasant (Remote) - $80,000/year USD
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/remoteworkeruk?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Remote Worker
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Cambridge, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    15 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:2891780890" data-row="7" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="JFsWRy/AvcPthfcYA7RT+A==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/net-c%23-software-developer-all-levels-at-rockstar-games-2891780890?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=JFsWRy%2FAvcPthfcYA7RT%2BA%3D%3D&amp;position=7&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        .NET/C# Software Developer (All Levels)
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4D0BAQGBAhxCc6Og5Q/company-logo_100_100/0/1549643523336?e=2147483647&amp;v=beta&amp;t=mZYAp1Ypit22VV52990fx4ajeIhrw-qab-p5vdUmEUQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        .NET/C# Software Developer (All Levels)
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/rockstar-games?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Rockstar Games
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Edinburgh, Scotland, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Actively Hiring
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    11 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3042240259" data-row="8" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="F+K+5SokwQ85gzuW+Rq6Pw==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/full-stack-software-engineer-at-remote-worker-3042240259?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=F%2BK%2B5SokwQ85gzuW%2BRq6Pw%3D%3D&amp;position=8&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Full Stack Software Engineer
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQH34cPjwfG1vw/company-logo_100_100/0/1603977815935?e=2147483647&amp;v=beta&amp;t=PdtIx3MlxaByLBi6ZrT3LDfF3w2yPhI3djv1euuLFTo" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Full Stack Software Engineer
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/remoteworkeruk?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Remote Worker
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            London, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    14 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3042240251" data-row="9" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="i1V85GlVqsvGH81QCoOt3g==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/c%23-software-developer-c%23-net-core-at-remote-worker-3042240251?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=i1V85GlVqsvGH81QCoOt3g%3D%3D&amp;position=9&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        C# Software Developer - C#, .Net Core
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQH34cPjwfG1vw/company-logo_100_100/0/1603977815935?e=2147483647&amp;v=beta&amp;t=PdtIx3MlxaByLBi6ZrT3LDfF3w2yPhI3djv1euuLFTo" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        C# Software Developer - C#, .Net Core
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/remoteworkeruk?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Remote Worker
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Winchester, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    14 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3042504610" data-row="10" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="7bGb7VyxpGhnc9vLnSN6sA==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/accelerated-development-junior-c%23-java-developer-at-remote-worker-3042504610?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=7bGb7VyxpGhnc9vLnSN6sA%3D%3D&amp;position=10&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        ACCELERATED DEVELOPMENT - JUNIOR C# / JAVA DEVELOPER
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQH34cPjwfG1vw/company-logo_100_100/0/1603977815935?e=2147483647&amp;v=beta&amp;t=PdtIx3MlxaByLBi6ZrT3LDfF3w2yPhI3djv1euuLFTo" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        ACCELERATED DEVELOPMENT - JUNIOR C# / JAVA DEVELOPER
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/remoteworkeruk?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Remote Worker
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Manchester, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    9 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3037445680" data-row="11" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="2X69q/Qi3xbh2CvnVzQFLg==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/software-engineer-data-team-all-levels-bangkok-based-relocation-provided-at-agoda-3037445680?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=2X69q%2FQi3xbh2CvnVzQFLg%3D%3D&amp;position=11&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Software Engineer (Data Team/all Levels) (Bangkok based, relocation provided)
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C510BAQFlzwnDh-1n8g/company-logo_100_100/0/1564993524217?e=2147483647&amp;v=beta&amp;t=i3X30_gHsU3RaX4qcHsguFjg9hp7nX_FfAnJKoTZwdQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Software Engineer (Data Team/all Levels) (Bangkok based, relocation provided)
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://sg.linkedin.com/company/agoda?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Agoda
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Manchester, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    20 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3037445658" data-row="12" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="7TJoE0zz84n5JEJ7oLo2xA==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/senior-machine-learning-engineer-%E2%80%93-data-platform-team-bangkok-based-relocation-provided-at-agoda-3037445658?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=7TJoE0zz84n5JEJ7oLo2xA%3D%3D&amp;position=12&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Senior Machine Learning Engineer – Data Platform Team (Bangkok based, relocation provided)
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C510BAQFlzwnDh-1n8g/company-logo_100_100/0/1564993524217?e=2147483647&amp;v=beta&amp;t=i3X30_gHsU3RaX4qcHsguFjg9hp7nX_FfAnJKoTZwdQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Senior Machine Learning Engineer – Data Platform Team (Bangkok based, relocation provided)
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://sg.linkedin.com/company/agoda?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Agoda
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            London, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    20 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3045073124" data-row="13" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="kYsz03dCAR2tUTdAYdAuNA==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/graduate-software-engineer-at-cv-screen-ltd-3045073124?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=kYsz03dCAR2tUTdAYdAuNA%3D%3D&amp;position=13&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Graduate Software Engineer
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQGVOx-FmwCuXg/company-logo_100_100/0/1582909677942?e=2147483647&amp;v=beta&amp;t=y0UzYEb0rKFwEWGilLUZwWvZqq7Htkas9x4i0B73C8k" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Graduate Software Engineer
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/cv-screen-ltd?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            CV Screen Ltd
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Piddletrenthide, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    7 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3042802758" data-row="14" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="MgN0F36IPy0/+udDKmeCNw==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/junior-developer-at-edgefolio-3042802758?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=MgN0F36IPy0%2F%2BudDKmeCNw%3D%3D&amp;position=14&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Junior developer
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQELlDbbwrD8DQ/company-logo_100_100/0/1650360952362?e=2147483647&amp;v=beta&amp;t=fcTDSPnswuMyWNs0awnPnWoh2spSP1fTkBKGgDomBBA" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Junior developer
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/edgefolio?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Edgefolio
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            London, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    3 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3042238102" data-row="15" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="UDI7AjzVW7mXGcXpCyuLCw==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/flutter-developer-at-remote-worker-3042238102?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=UDI7AjzVW7mXGcXpCyuLCw%3D%3D&amp;position=15&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Flutter Developer
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQH34cPjwfG1vw/company-logo_100_100/0/1603977815935?e=2147483647&amp;v=beta&amp;t=PdtIx3MlxaByLBi6ZrT3LDfF3w2yPhI3djv1euuLFTo" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Flutter Developer
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/remoteworkeruk?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Remote Worker
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            London, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Actively Hiring
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    15 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3042231895" data-row="16" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="9jc6l7rS+32k9jzMm9xAhw==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/software-developer-at-remote-worker-3042231895?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=9jc6l7rS%2B32k9jzMm9xAhw%3D%3D&amp;position=16&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Software Developer
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQH34cPjwfG1vw/company-logo_100_100/0/1603977815935?e=2147483647&amp;v=beta&amp;t=PdtIx3MlxaByLBi6ZrT3LDfF3w2yPhI3djv1euuLFTo" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Software Developer
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/remoteworkeruk?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Remote Worker
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Leeds, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    15 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3037446571" data-row="17" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="xC/wuXLCCjLX2LaCUIlOqA==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/software-engineer-data-team-all-levels-bangkok-based-relocation-provided-at-agoda-3037446571?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=xC%2FwuXLCCjLX2LaCUIlOqA%3D%3D&amp;position=17&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Software Engineer (Data Team/all Levels) (Bangkok based, relocation provided)
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C510BAQFlzwnDh-1n8g/company-logo_100_100/0/1564993524217?e=2147483647&amp;v=beta&amp;t=i3X30_gHsU3RaX4qcHsguFjg9hp7nX_FfAnJKoTZwdQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Software Engineer (Data Team/all Levels) (Bangkok based, relocation provided)
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://sg.linkedin.com/company/agoda?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Agoda
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Edinburgh, Scotland, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    20 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3037447144" data-row="18" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="nqskaxaPmU0UB1a7QMWTCA==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/software-engineer-data-team-all-levels-bangkok-based-relocation-provided-at-agoda-3037447144?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=nqskaxaPmU0UB1a7QMWTCA%3D%3D&amp;position=18&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Software Engineer (Data Team/all Levels) (Bangkok based, relocation provided)
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C510BAQFlzwnDh-1n8g/company-logo_100_100/0/1564993524217?e=2147483647&amp;v=beta&amp;t=i3X30_gHsU3RaX4qcHsguFjg9hp7nX_FfAnJKoTZwdQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Software Engineer (Data Team/all Levels) (Bangkok based, relocation provided)
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://sg.linkedin.com/company/agoda?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Agoda
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Liverpool, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    20 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3042231874" data-row="19" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="P6JtTenECwisLgRCPRn/Lw==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/full-stack-javascript-engineer-to-%C2%A3750-day-at-remote-worker-3042231874?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=P6JtTenECwisLgRCPRn%2FLw%3D%3D&amp;position=19&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Full Stack JavaScript Engineer to £750 day
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQH34cPjwfG1vw/company-logo_100_100/0/1603977815935?e=2147483647&amp;v=beta&amp;t=PdtIx3MlxaByLBi6ZrT3LDfF3w2yPhI3djv1euuLFTo" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Full Stack JavaScript Engineer to £750 day
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/remoteworkeruk?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Remote Worker
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            London, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    15 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:2890847423" data-row="20" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="3V72SI0Vyjctp9+Smz8/DQ==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/swift-payments-engineer-bristol-at-accenture-2890847423?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=3V72SI0Vyjctp9%2BSmz8%2FDQ%3D%3D&amp;position=20&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Swift Payments Engineer - Bristol
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQHjvfNL_2AXIw/company-logo_100_100/0/1628018657141?e=2147483647&amp;v=beta&amp;t=6hYLfFibPwotR9QxH3yrWSP6ARlRKUimdiTXfFrqUQc" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Swift Payments Engineer - Bristol
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://ie.linkedin.com/company/accenture?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Accenture
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Cheltenham, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Actively Hiring
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    11 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:2952595053" data-row="21" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="OsxJ6qciEjHdbWAHk7XE9w==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/pre-sales-software-engineer-vat-compliance-reporting-at-ey-2952595053?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=OsxJ6qciEjHdbWAHk7XE9w%3D%3D&amp;position=21&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Pre-sales Software Engineer - VAT Compliance Reporting
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C510BAQGpRhkpxp5A9A/company-logo_100_100/0/1561962168715?e=2147483647&amp;v=beta&amp;t=SxaWZPMezmT4Eqt6nHG9zpw1rL4IMwPWItkB-6U6l5g" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Pre-sales Software Engineer - VAT Compliance Reporting
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/ernstandyoung?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            EY
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Southampton, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    10 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3037436418" data-row="22" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="/y87x4tUWPNShaBtkw/V9A==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/senior-data-scientist-senior-machine-learning-engineer-bangkok-based-relocation-provided-at-agoda-3037436418?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=%2Fy87x4tUWPNShaBtkw%2FV9A%3D%3D&amp;position=22&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Senior Data Scientist/ Senior Machine Learning Engineer (Bangkok based, relocation provided)
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C510BAQFlzwnDh-1n8g/company-logo_100_100/0/1564993524217?e=2147483647&amp;v=beta&amp;t=i3X30_gHsU3RaX4qcHsguFjg9hp7nX_FfAnJKoTZwdQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Senior Data Scientist/ Senior Machine Learning Engineer (Bangkok based, relocation provided)
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://sg.linkedin.com/company/agoda?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Agoda
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            London, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    20 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3045069831" data-row="23" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="rD8LWYRn41306+DlFmlc9Q==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/junior-database-developer-c%23-sql-at-emis-group-plc-3045069831?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=rD8LWYRn41306%2BDlFmlc9Q%3D%3D&amp;position=23&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Junior Database Developer (C# / SQL)
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4D0BAQH4hym1_aH82A/company-logo_100_100/0/1625132929034?e=2147483647&amp;v=beta&amp;t=TVzLqWs_X56cQ4sTkkSzibMW_32u2IwXGwvomnsqg5k" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Junior Database Developer (C# / SQL)
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/emis-group-plc?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            EMIS Group plc
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    7 hours ago
+  
+          </time>
+<span class="job-search-card__easy-apply-label job-search-card__easy-apply-label--with-middot">
+            Apply Now
+          </span>
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:2952593309" data-row="24" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="xwBt3EuJXXSSvosu+/ct3g==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/pre-sales-software-engineer-vat-compliance-reporting-at-ey-2952593309?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=xwBt3EuJXXSSvosu%2B%2Fct3g%3D%3D&amp;position=24&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Pre-sales Software Engineer - VAT Compliance Reporting
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C510BAQGpRhkpxp5A9A/company-logo_100_100/0/1561962168715?e=2147483647&amp;v=beta&amp;t=SxaWZPMezmT4Eqt6nHG9zpw1rL4IMwPWItkB-6U6l5g" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Pre-sales Software Engineer - VAT Compliance Reporting
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://uk.linkedin.com/company/ernstandyoung?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            EY
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Exeter, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    9 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>, <li>
+<div class="base-card base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:3037444656" data-row="25" data-search-id="kWN17g1+ilo8YyDCWAaKMw==" data-tracking-id="hMe0JellSN9pD1LZTcyt1A==">
+<a class="base-card__full-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://uk.linkedin.com/jobs/view/software-engineer-data-team-all-levels-bangkok-based-relocation-provided-at-agoda-3037444656?refId=kWN17g1%2Bilo8YyDCWAaKMw%3D%3D&amp;trackingId=hMe0JellSN9pD1LZTcyt1A%3D%3D&amp;position=25&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card">
+<span class="screen-reader-text">
+            
+        
+        Software Engineer (Data Team/all Levels) (Bangkok based, relocation provided)
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media-exp1.licdn.com/dms/image/C510BAQFlzwnDh-1n8g/company-logo_100_100/0/1564993524217?e=2147483647&amp;v=beta&amp;t=i3X30_gHsU3RaX4qcHsguFjg9hp7nX_FfAnJKoTZwdQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Software Engineer (Data Team/all Levels) (Bangkok based, relocation provided)
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://sg.linkedin.com/company/agoda?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Agoda
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            London, England, United Kingdom
+          </span>
+<!-- -->
+<div class="job-search-card__benefits">
+<div class="result-benefits">
+<icon class="result-benefits__icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+<span class="result-benefits__text">
+         Be an early applicant
+<!-- --> </span>
+</div>
+</div>
+<!-- -->
+<time class="job-search-card__listdate--new" datetime="2022-04-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    20 hours ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>]
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
