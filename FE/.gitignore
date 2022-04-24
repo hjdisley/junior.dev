@@ -33,9 +33,3 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
-
-data/venv
-data/__pycache__
-data/.env
-data/geckodriver.log
-
