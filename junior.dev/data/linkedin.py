@@ -5,9 +5,7 @@ from dotenv import load_dotenv
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.firefox.options import Options as FirefoxOptions
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.firefox.options import Options 
 from selenium.webdriver.firefox.options import Options
 from bs4 import BeautifulSoup
 
@@ -60,8 +58,8 @@ def scrape_linkedin(url):
     linkedin_results = linkedin_soup.find('ul', {'class': 'jobs-search__results-list'}).find_all('li')
    
     job_urls = []
-    for job_link in linkedin_results: 
-        individual_job_url = job_link.find('a', {'class': 'base-card__full-link'})['href']
+    for job in linkedin_results: 
+        individual_job_url = job.find('a', {'class': 'base-card__full-link'})['href']
         job_urls.append(individual_job_url)
 
     
